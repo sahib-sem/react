@@ -1,0 +1,46 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Shape of You",
+      "singer": "Ed Sheeran",
+      "genre": "Pop",
+      "youtube_link": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+    },
+    {
+      "id": 2,
+      "title": "Bohemian Rhapsody",
+      "singer": "Queen",
+      "genre": "Rock",
+      "youtube_link": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+    },
+    {
+      "id": 3,
+      "title": "Rolling in the Deep",
+      "singer": "Adele",
+      "genre": "Soul",
+      "youtube_link": "https://www.youtube.com/watch?v=rYEDA3JcQqw"
+    },
+    {
+      "title": "new song ",
+      "singer": "ed sheeren",
+      "genre": "pop music",
+      "youtube_link": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+      "id": 4
+    },
+    {
+      "title": "new song ",
+      "singer": "ed sheeren",
+      "genre": "pop music",
+      "youtube_link": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+      "id": 5
+    },
+    {
+      "title": "okay here is another one",
+      "singer": "sahib",
+      "genre": "afrobeat",
+      "youtube_link": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+      "id": 6
+    }
+  ]
+}

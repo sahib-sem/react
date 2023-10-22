@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Beautiful Beachfront Villa",
+      "author": "John Smith",
+      "description": "Enjoy breathtaking ocean views from this stunning beachfront villa. Spacious rooms, private pool, and direct access to the beach make it a perfect vacation spot."
+    },
+    {
+      "id": 2,
+      "title": "Cozy Mountain Cabin",
+      "author": "Emily Johnson",
+      "description": "Escape to the mountains and relax in this charming cabin. Surrounded by nature, it's the ideal place to unwind and connect with the great outdoors."
+    },
+    {
+      "id": 3,
+      "title": "Luxury City Apartment",
+      "author": "David Rodriguez",
+      "description": "Live in style in this modern city apartment. Close to all the city's attractions, this spacious apartment offers comfort and convenience."
+    },
+    {
+      "id": 4,
+      "title": "Rustic Countryside Cottage",
+      "author": "Sophie Turner",
+      "description": "Experience the tranquility of the countryside in this rustic cottage. Cozy fireplace, rolling hills, and fresh air await you here."
+    },
+    {
+      "id": 5,
+      "title": "Historic Townhouse in the Heart of the City",
+      "author": "Michael Brown",
+      "description": "Step back in time and stay in this beautifully restored historic townhouse. Located in the heart of the city, it's perfect for history enthusiasts."
+    }
+  ]
+}
